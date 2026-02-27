@@ -81,7 +81,7 @@ export default function PrivacyPage() {
                   <p className="font-medium" style={{ color: '#2C1B07' }}>Stripe (Payment Processing)</p>
                   <p>
                     All payment information is processed by Stripe, Inc. Two Peaks Chai Co. never
-                    sees or stores your full card number. Stripe's privacy policy is available at
+                    sees or stores your full card number. Stripe&apos;s privacy policy is available at
                     stripe.com/privacy.
                   </p>
                 </div>
